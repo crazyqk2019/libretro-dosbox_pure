@@ -16,3 +16,4 @@ libs/
 *.so
 *.dylib
 jni/*.bat
+/vc_build
